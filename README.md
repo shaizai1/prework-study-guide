@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation? As a bootcamp student, it is important for the course prework notes to be organised and structured on a webpage. This way, the information can be easily accessed and revised. By creating this project, I have organised my notes alongside practicing the content I am studying.
+As a bootcamp student, it is important for the course prework notes to be organised and structured on a webpage. This way, the information can be easily accessed and revised. By creating this project, I have organised my notes alongside practicing the content I am studying.
 This makes it much easier to contain all the new information in a meaningful way.
 -Along the way I have learned how to practically apply the concepts I have been studying.
 
